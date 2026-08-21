@@ -1,0 +1,67 @@
+# 🐍 Proyecto Python
+
+## 📚 Información del proyecto
+
+Este proyecto ha sido desarrollado utilizando **Python** como parte de mi formación académica en la **Universidad Privada del Norte (UPN)**.
+
+El objetivo principal es aplicar los conocimientos adquiridos durante el curso mediante el desarrollo de una solución utilizando programación en Python.
+
+## 🚀 Tecnologías utilizadas
+
+* 🐍 Python
+* 💻 Visual Studio Code
+* 🔧 Git
+* 🐙 GitHub
+
+## 📂 Estructura del proyecto
+
+```text
+proyecto-python/
+│
+├── main.py
+├── README.md
+└── requirements.txt
+```
+
+## ⚙️ Instalación
+
+Para ejecutar este proyecto localmente, primero clona el repositorio:
+
+```bash
+git clone URL_DE_TU_REPOSITORIO
+```
+
+Ingresa a la carpeta del proyecto:
+
+```bash
+cd proyecto-python
+```
+
+Si el proyecto utiliza dependencias, instálalas con:
+
+```bash
+pip install -r requirements.txt
+```
+
+Finalmente, ejecuta el programa:
+
+```bash
+python main.py
+```
+
+## 🎯 Objetivos
+
+* Aplicar conceptos fundamentales de programación en Python.
+* Mejorar las habilidades de resolución de problemas.
+* Utilizar Git y GitHub para el control de versiones.
+* Desarrollar buenas prácticas de programación.
+
+## 👨‍💻 Autor
+
+**Estudiante de la Universidad Privada del Norte (UPN)**
+
+Proyecto desarrollado con fines académicos.
+
+## 📄 Licencia
+
+Este proyecto fue desarrollado con fines educativos y académicos.
